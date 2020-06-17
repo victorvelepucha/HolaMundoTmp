@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World  App</string>
+    <string name="logo_android">Logo Android</string>
+    <string name="boton_saludar_texto">Saludar</string>
+    <string name="texto_holamundo">Hello World!</string>
+</resources>
